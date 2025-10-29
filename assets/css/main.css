@@ -1,0 +1,11 @@
+title{
+  color:blue;
+}
+p{
+  color:green;
+}
+img{
+  float:left;
+  width: 25%;
+  height: auto;
+}
